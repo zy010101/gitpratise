@@ -1,3 +1,7 @@
 This is readme.
 I am learning Git.
+<<<<<<< HEAD
 Modified README in dev branch.
+=======
+This is the bug.
+>>>>>>> e951a27... fixed bug.
